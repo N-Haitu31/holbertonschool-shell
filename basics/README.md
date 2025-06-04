@@ -9,3 +9,5 @@
 4-listmorefiles : Display all contents & long format
 
 5-listfilesdigitonly : Display all contents & long format & IDs
+
+6-firstdirectory : Script that creates a directory in the /tmp/ directory.
