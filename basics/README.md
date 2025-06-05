@@ -25,3 +25,5 @@
 12-file_type : Script that prints the type of the file
 
 13-symbolic_link : symbolic link in current directory
+
+14-copy_html : Copy HTML files
