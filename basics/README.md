@@ -15,3 +15,5 @@
 7-movethatfile : Move a file to directory
 
 8-firstdelete : Delete file in directory
+
+9-firstdirdeletion - Delete directory in directory
