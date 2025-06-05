@@ -19,3 +19,5 @@
 9-firstdirdeletion - Delete directory in directory
 
 10-back - Move to previous one
+
+11-lists : List all files (hidden & long format) with current directory & parent with /boot
