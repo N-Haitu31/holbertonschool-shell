@@ -29,3 +29,5 @@
 14-copy_html : Copy HTML files
 
 15-lets_move : Move Uppercase character
+
+16-clean_emacs : Delete all files in the current working directory that end with the character "~"
