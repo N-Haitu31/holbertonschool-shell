@@ -23,3 +23,5 @@
 11-lists : List all files (hidden & long format) with current directory & parent with /boot
 
 12-file_type : Script that prints the type of the file
+
+13-symbolic_link : symbolic link in current directory
