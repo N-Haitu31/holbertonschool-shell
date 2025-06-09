@@ -8,4 +8,6 @@ Shell, permissions
 
 3-new_owner : changes the owner of the file hello to the user betty.
 
-4-empty : script that creates an empty file
+4-empty : script that creates an empty file.
+
+5-execute : script that adds execute permission to the owner of the file
