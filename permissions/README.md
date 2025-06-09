@@ -31,3 +31,5 @@ Shell, permissions
 14-change_owner_and_group : script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 15-symbolic_link_permissions : script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+16-if_only : script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
