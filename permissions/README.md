@@ -17,3 +17,5 @@ Shell, permissions
 7-everybody : adds execution permission to the owner, the group owner and the other users, to the file.
 
 8-James_Bond : script that sets the permission to the file with No permission u+g but all to o.
+
+9-John_Doe : -rwxr-x-wx to the file hello.
