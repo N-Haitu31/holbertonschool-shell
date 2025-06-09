@@ -10,4 +10,6 @@ Shell, permissions
 
 4-empty : script that creates an empty file.
 
-5-execute : script that adds execute permission to the owner of the file
+5-execute : script that adds execute permission to the owner of the file.
+
+6-multiple_permissions : adds execute permission to the owner and the group owner, and read permission to other users, to the file.
