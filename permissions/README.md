@@ -19,3 +19,5 @@ Shell, permissions
 8-James_Bond : script that sets the permission to the file with No permission u+g but all to o.
 
 9-John_Doe : -rwxr-x-wx to the file hello.
+
+10-mirror_permissions : script that sets the mode of the file hello the same as olleh s mode.
