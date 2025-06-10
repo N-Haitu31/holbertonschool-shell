@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iactia
+cat -1 iactia
