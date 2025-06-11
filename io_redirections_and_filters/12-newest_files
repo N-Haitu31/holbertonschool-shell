@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -At1 | tail -n 10
+ls -t b2* | head -10
