@@ -41,3 +41,5 @@ Shell, I/O Redirections and filters
 19-AZ : Replace all characters A and c from input to Z and e respectively.
 
 20-hiago : script that removes all letters c and C from input.
+
+21-reverse : script that reverse its input.
