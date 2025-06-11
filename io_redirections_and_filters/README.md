@@ -28,4 +28,6 @@ Shell, I/O Redirections and filters
 
 13-unique: script that takes a list of words as input and prints only words that appear exactly once.
 
-14-findthatword : lines containing the pattern “root” from the file /etc/passwd
+14-findthatword : lines containing the pattern “root” from the file /etc/passwd.
+
+15-countthatword : Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
