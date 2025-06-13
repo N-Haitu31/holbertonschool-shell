@@ -1,2 +1,2 @@
 #!/bin/bash
-env command
+set PATH
