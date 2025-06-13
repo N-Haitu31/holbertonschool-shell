@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10#$BINARY))
+printf '%x\n' "$((2#101010101))"
