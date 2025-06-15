@@ -31,3 +31,5 @@ Shell, init files, variables and expansions
 14-decimal_to_hexadecimal : script that converts a number from base 10 to base 16.
 
 15-rot13 : script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+17-water_and_stir : shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
