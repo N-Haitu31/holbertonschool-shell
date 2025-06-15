@@ -45,3 +45,5 @@ Shell, I/O Redirections and filters
 21-reverse : script that reverse its input.
 
 22-users_and_homes : script that displays all users and their home directories, sorted by users.
+
+24-gifs : script that lists all the files with a .gif extension in the current directory and all its sub-directories.
